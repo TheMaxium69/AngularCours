@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  21 AUG 2023 18:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  21 AUG 2023 18:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -960,9 +960,40 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ] [4
 
-] [5
+]
+<assets/page.png, id=162, 192.72pt x 192.72pt>
+File: assets/page.png Graphic file (type png)
+<use assets/page.png>
+Package pdftex.def Info: assets/page.png  used on input line 93.
+(pdftex.def)             Requested size: 56.9055pt x 56.90483pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
 
-] [6
+
+(C:\Users\mxmto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+
+
+(C:\Users\mxmto\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 93.
+
+(C:\Users\mxmto\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
+erncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+<assets/server.png, id=164, 192.72pt x 192.72pt>
+File: assets/server.png Graphic file (type png)
+<use assets/server.png>
+Package pdftex.def Info: assets/server.png  used on input line 93.
+(pdftex.def)             Requested size: 56.9055pt x 56.90483pt.
+ [5
+
+ <./assets/page.png> <./assets/server.png>] [6
 
 ] [7
 
@@ -982,11 +1013,11 @@ Package rerunfilecheck Info: File `test.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21848 strings out of 476331
- 436983 string characters out of 5787765
+ 21937 strings out of 476331
+ 438996 string characters out of 5787765
  1861660 words of memory out of 5000000
- 41828 multiletter control sequences out of 15000+600000
- 513799 words of font info for 37 fonts, out of 8000000 for 9000
+ 41896 multiletter control sequences out of 15000+600000
+ 516688 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,381b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
@@ -994,9 +1025,9 @@ cmss10.pfb><C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmss12.pfb><C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmss8.pfb>
 Output written on C:/Users\mxmto\Developpement\Cours\Angular\out\test.pdf (7 pa
-ges, 86155 bytes).
+ges, 95920 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
+ 265 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
