@@ -12,7 +12,7 @@
 % Main & Info
 \title[Angular]
 {Module Angular}
-\subtitle{Parti 1}
+\subtitle{Partie 1}
 \author[Maxime Tournier]
 {Maxime Tournier}
 \date[21/08/2023]
@@ -32,7 +32,6 @@
 		4. {Premier pas sur Angular} \newline
 		5. {Composants} \newline
 		6. {Template} \newline
-		7. {Route} \newline
 
 	\end{frame}
 
@@ -47,12 +46,12 @@
 			Framework = Cadre de travail
 		\end{block}
 
-		En tant que développeur on fait souvent la meme chose \newline \newline
-		Exemple: \newline Valider les formulaires | Gerez la navigation | traiter les erreurs
+		En tant que développeur, on fait souvent la même chose \newline \newline
+		Exemple: \newline Valider les formulaires | Gérer la navigation | Traiter les erreurs
 		\newline \newline
-		Et pour regler ce problème au lieu d'allez recupere les fonction d'autre projet on à créer les framework
+		Et pour régler ce problème au lieu d'aller récupéré les fonctions d'autres projet on a créé les frameworks
 		\newline \newline
-		Avantage : Tout le monde travaille sur les même fonction
+		Avantage : Tout le monde travaille sur les mêmes fonctions
 		
 	\end{frame}
 
@@ -65,7 +64,7 @@
 		\newline \newline
 		Site Web / Application Web
 		\newline \newline
-		Il s'agit bien de deux chose différente
+		Il s'agit bien de deux choses différentes
 
 	\end{frame}
 
@@ -78,7 +77,7 @@
 			- Fichier client (CSS, HTML, JS)
 
 			\includegraphics[width=2cm]{assets/server}\newline
-			- Fichier serveur (php, java) (ici qu'on fait des requetes sql)
+			- Fichier serveur (php, java) (ici qu'on fait des requêtes sql)
 
 	\end{frame}
 
@@ -110,10 +109,10 @@
 		Resumé :
 		\newline \newline
 		le client doit faire une requête au serveur a chaque fois dans un site web \newline \newline
-		alors que dans une application web, nous allons deleguer le travaille a JavaScript qui vas désactivé ou activé une parti du code html/css
+		alors que dans une application web, nous allons déléguer le travaille à Javascript qui va désactiver ou activer une partie du code html/css
 		\newline \newline
 		\begin{block}{Information}
-			Cette méthode s'appel SPA (Single Page Application)
+			Cette méthode s'appelle SPA (Single Page Application)
 		\end{block}
 	\end{frame}
 
@@ -122,9 +121,9 @@
 	\begin{frame}
 		\frametitle{Histoire}
 
-		AngularJS n'est pas egal a Angular \newline \newline
+		AngularJS n'est pas égal à Angular \newline \newline
 
-		AngularJS à été créer par Google \newline \newline
+		AngularJS a été créé par Google \newline \newline
 
 		AngularJS avait comme architecture MVC \newline \newline
 
@@ -141,20 +140,20 @@
 
 		Angular est un framework orienté composant \newline \newline
 
-		Nous allons codé une multitude de petit composant qui formeront une application \newline \newline
+		Nous allons coder une multitude de petits composants qui formera une application \newline \newline
 
-		Un composant est une parti du site qui fonctionne de manière autonome sur une applicaiton
+		Un composant est une partie du site qui fonctionne de manière autonome sur une application
 
 	\end{frame}
 
 	\begin{frame}
 		\frametitle{Histoire}
 
-		Angular est il difficiel à apprendre ? : \newline \newline
+		Angular est-il difficile à apprendre ? : \newline \newline
 
-		Angular à une réputation de framework difficile \newline \newline
+		Angular a une réputation de framework difficile \newline \newline
 
-		Car Angular est basé sur TypeScript un languge basé sur Javascript qui permet de Typé vos variable \newline \newline
+		Car Angular est basé sur Typescript une langue basée sur Javascript qui permet de Typé vos variables \newline \newline
 
 		Angular est basé sur la version de Javascript ES6
 
@@ -175,12 +174,12 @@
 	\begin{frame}
 		\frametitle{Démarrage Angular}
 
-		1. Installer un environnement de developpement \newline
-		2. Genere un socle angular (Grâce à Angular-CLI) \newline
+		1. Installer un environnement de développement \newline
+		2. Génère un socle angular (Grâce à Angular-CLI)\newline
 		3. Nous allons jouer avec le composant racine =)
 		\newline \newline
 		\begin{block}{Information}
-			un composont c’est comme une parti de l’application web. Mais il y a un premier composant a l'origine de tout, que nous appelons le composant racine
+			un composant c’est comme une partie de l’application web. Mais il y a un premier composant à l'origine de tout, que nous appelons le composant racine
 		\end{block}
 
 	\end{frame}
@@ -190,24 +189,24 @@
 
 		Ce qu'on a besoin : \newline \newline
 
-		D'abors on vas avoir besoin du moteur javascript (NodeJS) et d'un gestionnaire de packet (NPM) \newline \newline
+		D'abors on va avoir besoin du moteur javascript (NodeJS) et d'un gestionnaire de paquets (NPM) \newline \newline
 
-		D'un Editeur de code TypeScript \newline \newline
+		D'un éditeur de code TypeScript \newline \newline
 
-		Un outil qu'on appel Angular CLI (Qui vas nous permet de gérez notre projet Angular)
+		Un outil qu'on appelle Angular CLI (Qui va nous permet de gérer notre projet Angular)
 
 	\end{frame}
 
 	\begin{frame}
 		\frametitle{NodeJS et NPM}
 
-		NodeJS et NPM sont utiliser pour la majorité des projet JavaScript moderne \newline \newline
+		NodeJS et NPM sont utilisés pour la majorité des projets Javascript moderne \newline \newline
 
-		NodeJS permet d’excute du code JS coté serveur \newline \newline
+		NodeJS permet d’excuter du code JS côté serveur \newline \newline
 
-		NPM permet de gere les dépence de paquet de javascript (angular est un paquet) \newline \newline
+		NPM permet de géré les dépence de paquet de javascript (angular est un paquet) \newline \newline
 
-		NodeJS integre par defaut NPM
+		NodeJS intègre par défaut NPM
 
 	\end{frame}
 
@@ -227,17 +226,17 @@
 	\begin{frame}
 		\frametitle{IDE}
 
-		On vas avoir besoin d'un IDE \newline \newline
+		On va avoir besoin d'un IDE \newline \newline
 
-		Un IDE est un environnement de developpement (Editeur de code amélioré) \newline \newline
+		Un IDE est un environnement de développement (Editeur de code amélioré) \newline \newline
 
 		- Visual Studio Code : Recommander par Mircorsoft (Gratuit) \newline
-		- WebStorm : Beaucoup plus puissant et recommander par Google, de la suite JetBrain (Payant) \newline  \newline
+		- WebStorm :Beaucoup plus puissant et recommandés par Google, de la suite JetBrain (Payant) \newline  \newline
 
-		Choissier celui que vous préfèrer ou que vous êtes le plus a l'aise  \newline \newline
+		Choisissez celui que vous préférez ou que vous êtes le plus à l'aise  \newline \newline
 
 		\begin{block}{Information}
-			La suite JetBrain (WebStorm) est gratuit pendant tout au long de votre formation, inscription sur leurs site internet
+			La suite JetBrain (WebStorm) est gratuite pendant tout au long de votre formation, inscription sur leurs sites internet
 		\end{block}
 
 	\end{frame}
@@ -247,7 +246,7 @@
 
 		Pour votre terminal : \newline \newline
 
-		Souvent il peut avoir des problème avec le terminal Windows \newline \newline
+		Souvent il peut avoir des problèmes avec le terminal Windows \newline \newline
 
 		Essayer de toujours d'utiliser PowerShell \newline \newline
 
@@ -275,7 +274,7 @@
 
 		TypeScript est une surcouche de JavaScript  \newline \newline
 
-		TypeScript est developed par Microsoft depuis 2012  \newline \newline
+		Typescript est développé par Microsoft depuis 2012  \newline \newline
 
 		TypeScript support les dernier version de JS ES6
 
@@ -295,13 +294,13 @@
 	\begin{frame}
 		\frametitle{TypeScript}
 
-		Pour compilé TypeScript on excutera cette commande \newline \newline
+		Pour compiler Typescript on exécutera cette commande \newline \newline
 
 
 		\includegraphics[width=15cm]{assets/tsbuild}\newline
 
 
-		Cette commande nous créara un fichier JS du nom de file.js
+		Cette commande nous créera un fichier JS du nom de file.js
 
 	\end{frame}
 
@@ -333,7 +332,7 @@
 
 		Activité : \newline \newline
 
-		- Installer de quoi compile TypeScript avec cette comande \newline \newline
+		- Installer de quoi compile Typescript avec cette commande \newline \newline
 
 		\includegraphics[width=16cm]{assets/tsInstall}\newline
 
@@ -346,9 +345,9 @@
 		Activité : \newline \newline
 
 		- Refaire l'activité 1 du rappel JavaScript \newline
-		En typant les variable avec TypeScript \newline \newline
+		En typant les variables avec Typescript \newline \newline
 
-		- Puis compilé le fichier TypeScript et tester le site \newline \newline
+		- Puis compiler le fichier Typescript et tester le site \newline \newline
 
 
 
@@ -372,9 +371,9 @@
 		Angular-CLI :  \newline \newline
 
 		\centering
-		Cette application vas installer tout ce qu’on a besoin \newline en une seul ligne de commande  \newline \newline
+		Cette application va installer tout ce dont on a besoin \newline en une seul ligne de commande  \newline \newline
 
-		et avec cette même outils on vas pouvoir piloté certaine fonctionnalité d’angular directement en ligne de command  \newline \newline
+		et avec cette même outils on va pouvoir piloter certaines fonctionnalités d’angular directement en ligne de command  \newline \newline
 
 		\begin{block}{Information}
 			Ce n'est pas la seul méthode pour démarré un projet Angular, mais bien la plus connue
@@ -402,12 +401,12 @@
 
 		Activité : \newline \newline
 
-		- Verifier l'installation de Angular-CLI  \newline \newline
+		- Vérifier l'installation d'Angular-Cli  \newline \newline
 
 		\includegraphics[width=16cm]{assets/angularCLInstall} \newline
 
 		\begin{block}{Information}
-			Toute les commande d'angular-cli ce feront avec le prefix NG
+			Toute les commandes d'angular-cli ce feront avec le prefix NG
 		\end{block}
 
 	\end{frame}
