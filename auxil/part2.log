@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  28 AUG 2023 22:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  4 SEP 2023 18:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./test.tex
-(test.tex
+**./part2.tex
+(part2.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-03-30>
 (C:\Users\mxmto\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
@@ -861,8 +861,8 @@ tex.def
 File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count345
 \l__pdf_internal_box=\box87
-) (C:/Users\mxmto\Developpement\Cours\Angular\auxil\test.aux)
-\openout1 = `test.aux'.
+) (C:/Users\mxmto\Developpement\Cours\Angular\auxil\part2.aux)
+\openout1 = `part2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
@@ -944,10 +944,10 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring OFF on input line 21.
- (C:/Users\mxmto\Developpement\Cours\Angular\auxil\test.out)
-(C:/Users\mxmto\Developpement\Cours\Angular\auxil\test.out)
+ (C:/Users\mxmto\Developpement\Cours\Angular\auxil\part2.out)
+(C:/Users\mxmto\Developpement\Cours\Angular\auxil\part2.out)
 \@outlinefile=\write5
-\openout5 = `test.out'.
+\openout5 = `part2.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 21.
@@ -1028,515 +1028,57 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 \c@lstlisting=\count352
 
-(C:/Users\mxmto\Developpement\Cours\Angular\auxil\test.nav) [1
+(C:/Users\mxmto\Developpement\Cours\Angular\auxil\part2.nav) [1
 
 {C:/Users/mxmto/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
 
 ] [3
 
-] [4
+]
+<assets/backfront.png, id=121, 381.67593pt x 384.6872pt>
+File: assets/backfront.png Graphic file (type png)
+<use assets/backfront.png>
+Package pdftex.def Info: assets/backfront.png  used on input line 60.
+(pdftex.def)             Requested size: 256.0748pt x 258.10301pt.
+
+Overfull \vbox (33.05643pt too high) detected at line 60
+ []
+
+[4
+
+ <./assets/backfront.png>] [5
 
 ]
-<assets/page.png, id=162, 192.72pt x 192.72pt>
-File: assets/page.png Graphic file (type png)
-<use assets/page.png>
-Package pdftex.def Info: assets/page.png  used on input line 82.
-(pdftex.def)             Requested size: 56.9055pt x 56.90483pt.
-<assets/server.png, id=164, 192.72pt x 192.72pt>
-File: assets/server.png Graphic file (type png)
-<use assets/server.png>
-Package pdftex.def Info: assets/server.png  used on input line 82.
-(pdftex.def)             Requested size: 56.9055pt x 56.90483pt.
- [5
-
- <./assets/page.png> <./assets/server.png>]
-<assets/siteweb.png, id=194, 903.375pt x 752.8125pt>
-File: assets/siteweb.png Graphic file (type png)
-<use assets/siteweb.png>
-Package pdftex.def Info: assets/siteweb.png  used on input line 93.
-(pdftex.def)             Requested size: 170.71652pt x 142.25475pt.
- [6
-
- <./assets/siteweb.png>]
-<assets/appweb.png, id=222, 903.375pt x 578.16pt>
-File: assets/appweb.png Graphic file (type png)
-<use assets/appweb.png>
-Package pdftex.def Info: assets/appweb.png  used on input line 104.
-(pdftex.def)             Requested size: 227.62204pt x 145.67767pt.
- [7
-
- <./assets/appweb.png>] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
-
-] [14
-
-] [15
-
-] [16
-
-] [17
-
-] [18
-
-]
-<assets/npminstall.png, id=601, 525.46312pt x 123.46124pt>
-File: assets/npminstall.png Graphic file (type png)
-<use assets/npminstall.png>
-Package pdftex.def Info: assets/npminstall.png  used on input line 268.
-(pdftex.def)             Requested size: 284.52756pt x 66.85457pt.
- [19
-
- <./assets/npminstall.png>] [20
-
-] [21
-
-]
-<assets/tsbuild.png, id=685, 542.025pt x 77.53969pt>
-File: assets/tsbuild.png Graphic file (type png)
-<use assets/tsbuild.png>
-Package pdftex.def Info: assets/tsbuild.png  used on input line 305.
-(pdftex.def)             Requested size: 426.79134pt x 61.05688pt.
-
-Overfull \hbox (119.50146pt too wide) in paragraph at lines 305--305
-[][]  
- []
-
-[22
-
- <./assets/tsbuild.png>]
-<assets/tsvariable.png, id=714, 536.0025pt x 134.00063pt>
-File: assets/tsvariable.png Graphic file (type png)
-<use assets/tsvariable.png>
-Package pdftex.def Info: assets/tsvariable.png  used on input line 316.
-(pdftex.def)             Requested size: 426.79134pt x 106.69763pt.
-
-Overfull \hbox (119.50146pt too wide) in paragraph at lines 316--316
-[][]  
- []
-
-[23
-
- <./assets/tsvariable.png>]
-<assets/tsvariable2.png, id=743, 231.86626pt x 92.59593pt>
-File: assets/tsvariable2.png Graphic file (type png)
-<use assets/tsvariable2.png>
-Package pdftex.def Info: assets/tsvariable2.png  used on input line 327.
-(pdftex.def)             Requested size: 199.16928pt x 79.5405pt.
- [24
-
- <./assets/tsvariable2.png>]
-<assets/tsInstall.png, id=772, 546.54187pt x 73.77562pt>
-File: assets/tsInstall.png Graphic file (type png)
-<use assets/tsInstall.png>
-Package pdftex.def Info: assets/tsInstall.png  used on input line 340.
-(pdftex.def)             Requested size: 455.24408pt x 61.45212pt.
-
-Overfull \hbox (147.95421pt too wide) in paragraph at lines 340--340
-[][]  
- []
-
-[25
-
- <./assets/tsInstall.png>] [26
-
-] [27
-
-] [28
-
-] [29
-
-]
-<assets/angularCLInstall.png, id=922, 542.025pt x 185.19188pt>
-File: assets/angularCLInstall.png Graphic file (type png)
-<use assets/angularCLInstall.png>
-Package pdftex.def Info: assets/angularCLInstall.png  used on input line 412.
-(pdftex.def)             Requested size: 455.24408pt x 155.54596pt.
-
-Overfull \hbox (147.95421pt too wide) in paragraph at lines 412--412
-[][]  
- []
-
-
-Overfull \vbox (39.91826pt too high) detected at line 412
- []
-
-[30
-
- <./assets/angularCLInstall.png>]
-<assets/angularsetup.png, id=963, 525.46312pt x 72.27pt>
-File: assets/angularsetup.png Graphic file (type png)
-<use assets/angularsetup.png>
-Package pdftex.def Info: assets/angularsetup.png  used on input line 424.
-(pdftex.def)             Requested size: 455.24408pt x 62.61522pt.
-
-Overfull \hbox (147.95421pt too wide) in paragraph at lines 424--424
-[][]  
- []
-
-[31
-
- <./assets/angularsetup.png>]
-File: assets/angularsetup.png Graphic file (type png)
-<use assets/angularsetup.png>
-Package pdftex.def Info: assets/angularsetup.png  used on input line 435.
-(pdftex.def)             Requested size: 483.69684pt x 66.52779pt.
-
-Overfull \hbox (176.40697pt too wide) in paragraph at lines 435--435
-[][]  
- []
-
-[32
-
-]
-<assets/angularsetup2.png, id=1020, 551.05875pt x 389.20406pt>
-File: assets/angularsetup2.png Graphic file (type png)
-<use assets/angularsetup2.png>
-Package pdftex.def Info: assets/angularsetup2.png  used on input line 442.
-(pdftex.def)             Requested size: 426.79134pt x 301.44592pt.
-
-Overfull \hbox (119.50146pt too wide) in paragraph at lines 442--442
-[][]  
- []
-
-
-Overfull \vbox (86.4549pt too high) detected at line 442
- []
-
-[33
-
- <./assets/angularsetup2.png>] [34
-
-] [35
-
-]
-<assets/ngserve.png, id=1103, 548.80031pt x 197.98969pt>
-File: assets/ngserve.png Graphic file (type png)
-<use assets/ngserve.png>
-Package pdftex.def Info: assets/ngserve.png  used on input line 472.
-(pdftex.def)             Requested size: 426.79134pt x 153.97514pt.
-
-Overfull \hbox (119.50146pt too wide) in paragraph at lines 472--472
- [][]  
- []
-
-[36
-
- <./assets/ngserve.png>] [37
-
-] [38
-
-]
-<assets/tsConfig.png, id=1187, 539.01375pt x 85.82062pt>
-File: assets/tsConfig.png Graphic file (type png)
-<use assets/tsConfig.png>
-Package pdftex.def Info: assets/tsConfig.png  used on input line 500.
-(pdftex.def)             Requested size: 312.9803pt x 49.83229pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 500--500
- [][]  
- []
-
-[39
-
- <./assets/tsConfig.png>] [40
-
-]
-<assets/composant.png, id=1243, 429.85594pt x 207.02344pt>
-File: assets/composant.png Graphic file (type png)
-<use assets/composant.png>
-Package pdftex.def Info: assets/composant.png  used on input line 529.
-(pdftex.def)             Requested size: 312.9803pt x 150.73729pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 529--529
- [][]  
- []
-
-[41
-
- <./assets/composant.png>]
-<assets/tableauComposant.png, id=1271, 531.48563pt x 102.3825pt>
-File: assets/tableauComposant.png Graphic file (type png)
-<use assets/tableauComposant.png>
-Package pdftex.def Info: assets/tableauComposant.png  used on input line 539.
-(pdftex.def)             Requested size: 312.9803pt x 60.2911pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 539--539
- [][]  
- []
-
-[42
-
- <./assets/tableauComposant.png>] [43
-
-]
-<assets/templateComposant.png, id=1328, 529.22719pt x 75.28125pt>
-File: assets/templateComposant.png Graphic file (type png)
-<use assets/templateComposant.png>
-Package pdftex.def Info: assets/templateComposant.png  used on input line 558.
-(pdftex.def)             Requested size: 312.9803pt x 44.52121pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 558--558
- [][]  
- []
-
-[44
-
- <./assets/templateComposant.png>] [45
-
-]
-<assets/vie.png, id=1393, 481.04718pt x 504.38437pt>
-File: assets/vie.png Graphic file (type png)
-<use assets/vie.png>
-Package pdftex.def Info: assets/vie.png  used on input line 586.
-(pdftex.def)             Requested size: 199.16928pt x 208.83073pt.
-
-Overfull \vbox (5.8397pt too high) detected at line 586
- []
-
-[46
-
- <./assets/vie.png>] [47
-
-]
-<assets/ngoninit1.png, id=1449, 524.71031pt x 78.2925pt>
-File: assets/ngoninit1.png Graphic file (type png)
-<use assets/ngoninit1.png>
-Package pdftex.def Info: assets/ngoninit1.png  used on input line 610.
-(pdftex.def)             Requested size: 312.9803pt x 46.70108pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 610--610
- [][]  
- []
-
-[48
-
- <./assets/ngoninit1.png>]
-<assets/ngoninit2.png, id=1478, 520.94624pt x 133.24782pt>
-File: assets/ngoninit2.png Graphic file (type png)
-<use assets/ngoninit2.png>
-Package pdftex.def Info: assets/ngoninit2.png  used on input line 622.
-(pdftex.def)             Requested size: 312.9803pt x 80.05502pt.
-
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 622--622
- [][]  
- []
-
-[49
-
- <./assets/ngoninit2.png>]
-<assets/consoleTable.png, id=1508, 523.20468pt x 318.43968pt>
-File: assets/consoleTable.png Graphic file (type png)
-<use assets/consoleTable.png>
-Package pdftex.def Info: assets/consoleTable.png  used on input line 631.
-(pdftex.def)             Requested size: 341.43306pt x 207.80937pt.
-
-Overfull \hbox (34.14319pt too wide) in paragraph at lines 631--631
- [][]  
- []
-
-[50
-
- <./assets/consoleTable.png>] [51
-
-] [52
-
-]
-<assets/userInt.png, id=1591, 520.94624pt x 223.58531pt>
-File: assets/userInt.png Graphic file (type png)
-<use assets/userInt.png>
-Package pdftex.def Info: assets/userInt.png  used on input line 668.
-(pdftex.def)             Requested size: 341.43306pt x 146.53984pt.
-
-Overfull \hbox (34.14319pt too wide) in paragraph at lines 668--668
- [][]  
- []
-
-[53
-
- <./assets/userInt.png>]
-<assets/userInt2.png, id=1620, 520.19344pt x 122.70844pt>
-File: assets/userInt2.png Graphic file (type png)
-<use assets/userInt2.png>
-Package pdftex.def Info: assets/userInt2.png  used on input line 681.
-(pdftex.def)             Requested size: 341.43306pt x 80.54031pt.
-
-Overfull \hbox (34.14319pt too wide) in paragraph at lines 681--681
- [][]  
- []
-
-[54
-
- <./assets/userInt2.png>] [55
-
-] [56
-
-] [57
-
-] [58
-
-] [59
-
-]
-<assets/templateAsset.png, id=1785, 524.71031pt x 117.43875pt>
-File: assets/templateAsset.png Graphic file (type png)
-<use assets/templateAsset.png>
-Package pdftex.def Info: assets/templateAsset.png  used on input line 758.
-(pdftex.def)             Requested size: 341.43306pt x 76.42027pt.
-
-Overfull \hbox (34.14319pt too wide) in paragraph at lines 758--758
- [][]  
- []
-
-[60
-
- <./assets/templateAsset.png>]
-<assets/templateHtml.png, id=1814, 529.98pt x 119.69719pt>
-File: assets/templateHtml.png Graphic file (type png)
-<use assets/templateHtml.png>
-Package pdftex.def Info: assets/templateHtml.png  used on input line 768.
-(pdftex.def)             Requested size: 398.33858pt x 89.96626pt.
-
-Overfull \hbox (91.0487pt too wide) in paragraph at lines 768--768
- [][]  
- []
-
-[61
-
- <./assets/templateHtml.png>] [62
-
-] [63
-
-]
-<assets/inter.png, id=1898, 548.80031pt x 270.25969pt>
-File: assets/inter.png Graphic file (type png)
-<use assets/inter.png>
-Package pdftex.def Info: assets/inter.png  used on input line 807.
-(pdftex.def)             Requested size: 398.33858pt x 196.16624pt.
-
-Overfull \hbox (91.0487pt too wide) in paragraph at lines 807--807
- [][]  
- []
-
-[64
-
- <./assets/inter.png>] [65
-
-]
-<assets/inter2.png, id=1954, 522.45187pt x 257.46187pt>
-File: assets/inter2.png Graphic file (type png)
-<use assets/inter2.png>
-Package pdftex.def Info: assets/inter2.png  used on input line 827.
-(pdftex.def)             Requested size: 398.33858pt x 196.3016pt.
-
-Overfull \hbox (91.0487pt too wide) in paragraph at lines 827--827
- [][]  
- []
-
-[66
-
- <./assets/inter2.png>]
-<assets/exempleAct.png, id=1983, 216.81pt x 60.97781pt>
-File: assets/exempleAct.png Graphic file (type png)
-<use assets/exempleAct.png>
-Package pdftex.def Info: assets/exempleAct.png  used on input line 842.
-(pdftex.def)             Requested size: 227.62204pt x 64.02205pt.
- [67
-
- <./assets/exempleAct.png>] [68
-
-]
-<assets/interClick.png, id=2040, 523.20468pt x 77.53969pt>
-File: assets/interClick.png Graphic file (type png)
-<use assets/interClick.png>
-Package pdftex.def Info: assets/interClick.png  used on input line 871.
-(pdftex.def)             Requested size: 398.33858pt x 59.03606pt.
-
-Overfull \hbox (91.0487pt too wide) in paragraph at lines 871--871
- [][]  
- []
-
-[69
-
- <./assets/interClick.png>]
-<assets/input.png, id=2069, 313.17pt x 152.06813pt>
-File: assets/input.png Graphic file (type png)
-<use assets/input.png>
-Package pdftex.def Info: assets/input.png  used on input line 887.
-(pdftex.def)             Requested size: 227.62204pt x 110.5308pt.
-
-Overfull \vbox (5.95866pt too high) detected at line 887
- []
-
-[70
-
- <./assets/input.png>] [71
-
-] [72
-
-]
-<assets/ngif.png, id=2173, 328.22626pt x 106.89937pt>
-File: assets/ngif.png Graphic file (type png)
-<use assets/ngif.png>
-Package pdftex.def Info: assets/ngif.png  used on input line 927.
-(pdftex.def)             Requested size: 227.62204pt x 74.13416pt.
- [73
-
- <./assets/ngif.png>]
-<assets/ngfor.png, id=2203, 317.68687pt x 139.27031pt>
-File: assets/ngfor.png Graphic file (type png)
-<use assets/ngfor.png>
-Package pdftex.def Info: assets/ngfor.png  used on input line 940.
-(pdftex.def)             Requested size: 227.62204pt x 99.79001pt.
- [74
-
- <./assets/ngfor.png>]
-<assets/allAct.png, id=2232, 918.43124pt x 494.59781pt>
-File: assets/allAct.png Graphic file (type png)
-<use assets/allAct.png>
-Package pdftex.def Info: assets/allAct.png  used on input line 954.
-(pdftex.def)             Requested size: 256.0748pt x 137.90532pt.
- [75
-
- <./assets/allAct.png>]
 \tf@nav=\write6
-\openout6 = `test.nav'.
+\openout6 = `part2.nav'.
 
 \tf@toc=\write7
-\openout7 = `test.toc'.
+\openout7 = `part2.toc'.
 
 \tf@snm=\write8
-\openout8 = `test.snm'.
+\openout8 = `part2.snm'.
 
 
-(C:/Users\mxmto\Developpement\Cours\Angular\auxil\test.aux)
-Package rerunfilecheck Info: File `test.out' has not changed.
+(C:/Users\mxmto\Developpement\Cours\Angular\auxil\part2.aux)
+Package rerunfilecheck Info: File `part2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26329 strings out of 476331
- 534628 string characters out of 5787765
- 1863660 words of memory out of 5000000
- 46098 multiletter control sequences out of 15000+600000
+ 25755 strings out of 476331
+ 522332 string characters out of 5787765
+ 1861660 words of memory out of 5000000
+ 45694 multiletter control sequences out of 15000+600000
  513799 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,381b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,15n,122p,382b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmss10.pfb><C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmss12.pfb><C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmss8.pfb>
-Output written on C:/Users\mxmto\Developpement\Cours\Angular\out\test.pdf (75 p
-ages, 1469616 bytes).
+Output written on C:/Users\mxmto\Developpement\Cours\Angular\out\part2.pdf (5 p
+ages, 85993 bytes).
 PDF statistics:
- 2310 PDF objects out of 2487 (max. 8388607)
- 151 named destinations out of 1000 (max. 500000)
- 646 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 192 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 
