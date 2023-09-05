@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  4 SEP 2023 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  5 SEP 2023 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1048,6 +1048,80 @@ Overfull \vbox (33.05643pt too high) detected at line 60
 
  <./assets/backfront.png>] [5
 
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+]
+<assets/gitclone.png, id=368, 527.72156pt x 74.52844pt>
+File: assets/gitclone.png Graphic file (type png)
+<use assets/gitclone.png>
+Package pdftex.def Info: assets/gitclone.png  used on input line 149.
+(pdftex.def)             Requested size: 341.43306pt x 48.21887pt.
+
+Overfull \hbox (34.14319pt too wide) in paragraph at lines 149--149
+ [][] 
+ []
+
+[13
+
+ <./assets/gitclone.png>]
+<assets/npminsta.png, id=398, 525.46312pt x 76.03406pt>
+File: assets/npminsta.png Graphic file (type png)
+<use assets/npminsta.png>
+Package pdftex.def Info: assets/npminsta.png  used on input line 162.
+(pdftex.def)             Requested size: 341.43306pt x 49.40645pt.
+
+Overfull \hbox (34.14319pt too wide) in paragraph at lines 162--162
+ [][] 
+ []
+
+[14
+
+ <./assets/npminsta.png>]
+<assets/ngserve.png, id=427, 548.80031pt x 197.98969pt>
+File: assets/ngserve.png Graphic file (type png)
+<use assets/ngserve.png>
+Package pdftex.def Info: assets/ngserve.png  used on input line 173.
+(pdftex.def)             Requested size: 341.43306pt x 123.18132pt.
+
+Overfull \hbox (34.14319pt too wide) in paragraph at lines 173--173
+ [][] 
+ []
+
+[15
+
+ <./assets/ngserve.png>] [16
+
+] [17
+
+]
+<assets/ngbuild.png, id=508, 536.0025pt x 84.315pt>
+File: assets/ngbuild.png Graphic file (type png)
+<use assets/ngbuild.png>
+Package pdftex.def Info: assets/ngbuild.png  used on input line 203.
+(pdftex.def)             Requested size: 341.43306pt x 53.70795pt.
+
+Overfull \hbox (34.14319pt too wide) in paragraph at lines 203--203
+ [][] 
+ []
+
+[18
+
+ <./assets/ngbuild.png>] [19
+
+] [20
+
 ]
 \tf@nav=\write6
 \openout6 = `part2.nav'.
@@ -1064,10 +1138,10 @@ Package rerunfilecheck Info: File `part2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25755 strings out of 476331
- 522332 string characters out of 5787765
+ 25854 strings out of 476331
+ 523783 string characters out of 5787765
  1861660 words of memory out of 5000000
- 45694 multiletter control sequences out of 15000+600000
+ 45759 multiletter control sequences out of 15000+600000
  513799 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,382b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1075,10 +1149,10 @@ Here is how much of TeX's memory you used:
 cmss10.pfb><C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmss12.pfb><C:/Users/mxmto/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmss8.pfb>
-Output written on C:/Users\mxmto\Developpement\Cours\Angular\out\part2.pdf (5 p
-ages, 85993 bytes).
+Output written on C:/Users\mxmto\Developpement\Cours\Angular\out\part2.pdf (20 
+pages, 194406 bytes).
 PDF statistics:
- 192 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 616 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
