@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  5 SEP 2023 12:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.21)  7 SEP 2023 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1106,7 +1106,7 @@ Overfull \hbox (34.14319pt too wide) in paragraph at lines 173--173
 ] [17
 
 ]
-<assets/ngbuild.png, id=508, 536.0025pt x 84.315pt>
+<assets/ngbuild.png, id=510, 536.0025pt x 84.315pt>
 File: assets/ngbuild.png Graphic file (type png)
 <use assets/ngbuild.png>
 Package pdftex.def Info: assets/ngbuild.png  used on input line 203.
@@ -1138,10 +1138,10 @@ Package rerunfilecheck Info: File `part2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 25854 strings out of 476331
- 523783 string characters out of 5787765
+ 25860 strings out of 476331
+ 523831 string characters out of 5787765
  1861660 words of memory out of 5000000
- 45759 multiletter control sequences out of 15000+600000
+ 45765 multiletter control sequences out of 15000+600000
  513799 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,382b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
